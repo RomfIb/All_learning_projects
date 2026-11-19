@@ -1,0 +1,3 @@
+public enum EnumStatus {
+    INITIALISED, CREATED, CONFORMED, CANCELLED
+}
